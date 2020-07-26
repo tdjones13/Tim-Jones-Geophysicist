@@ -11,26 +11,6 @@ I am a Cecil and Ida Green Posdoctoral Scholar at the Institute for Geophysics a
 
 I'm a computational geophysicist who conducts research on mantle convection, volcanism and Earth's chemical evolution. I grew up in Sydney and earned my BSc from Macquarie University and PhD from the Australian National University. Currently a Green Scholar at UCSD, I was also a Carnegie Fellow at the Carnegie Institution for Science. I was a finalist for the Schmidt Science Fellowship in 2018 and in 2017 I received the [Study for Earth's Deep Interior award](https://connect.agu.org/sedi/awards) for my work on mantle plumes and how they sample the deep mantle.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Recent Publications
 
 **TD Jones**, R Maguire, P van Keken, J Ritsema, P Koelemeijer (2020). Subducted Oceanic Crust as the Origin of Seismically Slow Lower-mantle Structures, _Progress in Earth and Planetary Sciences_, 7, (17), 2197-4284
