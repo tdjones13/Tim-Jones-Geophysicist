@@ -3,7 +3,7 @@
 If you're looking for information on my research, you've come to the right place. Here you'll find links to my published articles on the dynamical and chemical evolution of our planet, my CV and a little extra about me and some of my ideas about How The Earth Works.
 
 <p align="center">
-  <img width="300" height="300" src="https://user-images.githubusercontent.com/39965951/88488703-e205a280-cf43-11ea-82ea-89721595b164.jpeg">
+  <img width="250" height="250" src="https://user-images.githubusercontent.com/39965951/88488703-e205a280-cf43-11ea-82ea-89721595b164.jpeg">
 </p>
 
 ### About
