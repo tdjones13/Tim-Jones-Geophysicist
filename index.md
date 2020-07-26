@@ -5,7 +5,7 @@ If you're looking for information on my research, you've come to the right place
 ### About
 
 I am a Cecil and Ida Green Posdoctoral Scholar at the Institute for Geophysics and Planetary Physics, UC San Diego. I research the dynamical and chemical evolution of our planet. 
-<img style="float: right;" >[tim_jones](https://user-images.githubusercontent.com/39965951/88488703-e205a280-cf43-11ea-82ea-89721595b164.jpeg)
+<img style="float: right;"> [tim_jones](https://user-images.githubusercontent.com/39965951/88488703-e205a280-cf43-11ea-82ea-89721595b164.jpeg)
 
 ### Short Bio
 
@@ -31,9 +31,17 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Recent Publications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tdjones13/mothyjones/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**TD Jones**, R Maguire, P van Keken, J Ritsema, P Koelemeijer (2020). Subducted Oceanic Crust as the Origin of Seismically Slow Lower-mantle Structures _Progress in Earth and Planetary Sciences_, 7, (17), 2197-4284
+
+T Mittal, N Knezek, S Arveson, C McGuire, C Williams, **TD Jones**, Jie Li. (2020). Precipitation of Multiple Light Elements to Power Earth's Early Dynamo _Earth and Planetary Science Letters_, 532, 116030
+
+**TD Jones**, DR Davies, PA Sossi. (2019) Tungsten Isotopes in Mantle Plumes: Heads it's Positive Tails it's Negative _Earth and Planetary Science Letters_, 506, pp.255-267
+
+**TD Jones**, DR Davies, IH Campbell, GI Iaffaldano, G Yaxley, SC Kramer, CR Wilson. (2017) The concurrent emergence and causes of double-track volcanism on the Pacific plate _Nature_, 545, pp.472-476
+
+**TD Jones**, DR Davies, IH Campbell, CR Wilson, SC Kramer. (2016) Do mantle plumes preserve the heterogeneous structure of their deep-mantle source? _Earth and Planetary Science Letters_, 434, pp.10-17
 
 ### Contact
 
