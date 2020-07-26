@@ -5,7 +5,9 @@ If you're looking for information on my research, you've come to the right place
 ### About
 
 I am a Cecil and Ida Green Posdoctoral Scholar at the Institute for Geophysics and Planetary Physics, UC San Diego. I research the dynamical and chemical evolution of our planet. 
-<img style="float: right;"> ![tim_jones](https://user-images.githubusercontent.com/39965951/88488703-e205a280-cf43-11ea-82ea-89721595b164.jpeg)
+<img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/39965951/88488703-e205a280-cf43-11ea-82ea-89721595b164.jpeg"> !
+
+[tim_jones](https://user-images.githubusercontent.com/39965951/88488703-e205a280-cf43-11ea-82ea-89721595b164.jpeg)
 
 ### Short Bio
 
