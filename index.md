@@ -8,7 +8,7 @@ I am a Cecil and Ida Green Posdoctoral Scholar at the Institute for Geophysics a
 
 ### Short Bio
 
-I'm a computational geophysicist studying mantle convection, volcanism and Earth's chemical evolution.
+I'm a computational geophysicist who conducts research on mantle convection, volcanism and Earth's chemical evolution. I grew up in Sydney and earned my BSc from Macquarie University and PhD from the Australian National University. Currently a Green Scholar at UCSD, I was also a Carnegie Fellow at the Carnegie Institution for Science. I was a finalist for the Schmidt Science Fellowship in 2018 and in 2017 I received the [Study for Earth's Deep Interior award](https://connect.agu.org/sedi/awards) for my work on mantle plumes and how they sample the deep mantle.
 
 ```markdown
 Syntax highlighted code block
