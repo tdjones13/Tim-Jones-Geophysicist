@@ -26,6 +26,8 @@ T Mittal, N Knezek, S Arveson, C McGuire, C Williams, **TD Jones**, Jie Li. (202
 
 **TD Jones**, DR Davies, IH Campbell, CR Wilson, SC Kramer. (2016) Do mantle plumes preserve the heterogeneous structure of their deep-mantle source? _Earth and Planetary Science Letters_, 434, pp.10-17
 
+You can find a complete list on [google scholar](https://scholar.google.com.au/citations?hl=en&user=R8tDaXgAAAAJ&view_op=list_works&sortby=pubdate)
+
 ### Contact
 
 You can reach me at t6jones@ucsd.edu
