@@ -16,6 +16,8 @@ I'm a computational geophysicist who conducts research on mantle convection, vol
 
 ### Recent Publications
 
+**TD Jones**, P van Keken, N Sime (2021). Burying Earth's primitive mantle in the slab graveyard, _Geochemistry, Geophysics, Geosystems_, 3, (22), e2020GC009396
+
 **TD Jones**, R Maguire, P van Keken, J Ritsema, P Koelemeijer (2020). Subducted Oceanic Crust as the Origin of Seismically Slow Lower-mantle Structures, _Progress in Earth and Planetary Sciences_, 7, (17), 2197-4284
 
 T Mittal, N Knezek, S Arveson, C McGuire, C Williams, **TD Jones**, Jie Li. (2020). Precipitation of Multiple Light Elements to Power Earth's Early Dynamo, _Earth and Planetary Science Letters_, 532, 116030
