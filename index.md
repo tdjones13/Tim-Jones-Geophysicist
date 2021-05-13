@@ -44,13 +44,13 @@ Some of the disagreement is due to the fact that Gillian focuses on an earlier c
 
 Gillian says the plume hypothesis makes 5 testable predictions (which she says is based on an email exchange with Ian Campbell 20 years ago):
 
-Initial topographic uplift with the rising plume head
-Volcanic track emerges from a LIP or flood basalt
-Tail extending to the CMB
-Age progressive volcanism following the motion of the overlying tectonic plate
-High temperatures
+1. Initial topographic uplift with the rising plume head
+2. Volcanic track emerges from a LIP or flood basalt
+3. Tail extending to the CMB
+4. Age progressive volcanism following the motion of the overlying tectonic plate
+5. High temperatures
 
-1. & 2.    Gillian dismisses evidence of the first two, uplift and LIP formation, by saying that early Hawaiian volcanism has long been subducted into the mantle, taking any potential evidence of either along with it. I agree, which is why it is odd to focus on Hawaii rather than the many other locations where the evidence for LIP-volcanic track pairs remains intact. See, for example, Deccan and Reunion, North Atlantic and Iceland, Parana and Tristan da Cunha, and Karoo and Marion. See also the point in my opening paragraph regarding the work of Farnetani and Samuel (2005).
+1. & 2. Gillian dismisses evidence of the first two, uplift and LIP formation, by saying that early Hawaiian volcanism has long been subducted into the mantle, taking any potential evidence of either along with it. I agree, which is why it is odd to focus on Hawaii rather than the many other locations where the evidence for LIP-volcanic track pairs remains intact. See, for example, Deccan and Reunion, North Atlantic and Iceland, Parana and Tristan da Cunha, and Karoo and Marion. See also the point in my opening paragraph regarding the work of Farnetani and Samuel (2005).
 
 3. On evidence for plume tails extending to the CMB, Gillian states that different models result in different conclusions drawn about precisely where the tails are and that therefore there is no “repeatability.” First, many seismic studies do not image plume tails because they lack the resolution required, this was rigorously quantified by Maguire et al. (2018). But some studies do. Most recently, French and Romanowicz (2015) detected 11 plume tails extending to the CMB using a technique that retains more information from the seismic signal than previous techniques. The fact that other models image the tails differently does not reflect a lack of “repeatability”, a concept borrowed from experimental analysis, for different models use different data, different assumptions, and different model parameters. Holding these constant, as in an experimental setting, you find repeatability.
 
