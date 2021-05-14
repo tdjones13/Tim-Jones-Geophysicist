@@ -46,7 +46,7 @@ Gillian says the plume hypothesis makes 5 testable predictions (which she says i
 
 (1) Initial topographic uplift with the rising plume head. (2) Volcanic track emerges from a LIP or flood basalt. (3) Tail extending to the CMB. (4) Age progressive volcanism following the motion of the overlying tectonic plate. (5) High temperatures.
 
-(1) & (2) Gillian dismisses evidence of the first two, uplift and LIP formation, by saying that early Hawaiian volcanism has long been subducted into the mantle, taking any potential evidence of either along with it. I agree, which is why it is odd to focus on Hawaii rather than the many other locations where the evidence for LIP-volcanic track pairs remains intact. See, for example, Deccan and Reunion, North Atlantic and Iceland, Parana and Tristan da Cunha, and Karoo and Marion. See also the point in my opening paragraph regarding the work of Farnetani and Samuel (2005).
+(1) & (2) Gillian dismisses evidence of the first two, uplift and LIP formation, by saying that early Hawaiian volcanism has long been subducted into the mantle, taking any potential evidence of either along with it. I agree, which is why it is odd to focus on Hawaii rather than the many other locations where the evidence for LIP-volcanic track pairs remains intact. See, for example, Deccan and Reunion, North Atlantic and Iceland, Parana and Tristan da Cunha, and Karoo and Marion. See also the point in my opening paragraph regarding the work of Farnetani and Samuel (2005). Note also that there is an indication the Hawaiian plume head was accreted to the forearc of Kamchatka (Portnyaginet et al. 2008).
 
 (3) On evidence for plume tails extending to the CMB, Gillian states that different models result in different conclusions drawn about precisely where the tails are and that therefore there is no “repeatability.” First, many seismic studies do not image plume tails because they lack the resolution required, this was rigorously quantified by Maguire et al. (2018). But some studies do. For example, French and Romanowicz (2015) detected 11 plume tails extending to the CMB using a technique that retains more information from the seismic signal than previous techniques. As for repeatability, that concept applies to making the same measurement under the same experimental conditions. But different models contain different data, make different assumptions, and use different model parameters. Holding these constant, analagous to an experimental setting, you find repeatability.
 
@@ -66,9 +66,11 @@ Some final questions for Gillian: Where we see clear signs of rifting, spreading
 
 _References_
 
-Farnetani, C. G., and Samuel, H. (2005), Beyond the thermal plume paradigm, Geophys. Res. Lett., 32, L07311, doi:10.1029/2005GL022360. 
+Farnetani, C. G., and Samuel, H. (2005), Beyond the thermal plume paradigm, Geophys. Res. Lett., 32, L07311, doi:10.1029/2005GL022360.
 
-French, S., Romanowicz, B. Broad plumes rooted at the base of the Earth's mantle beneath major hotspots. Nature 525, 95–99 (2015). https://doi.org/10.1038/nature14876
+Portnyagin, M., Savelyev, D., Hoernle, K.,  Hauff, F., Garbe-Schonberg, D., Geology 36, 903–906 (2008)
 
 Maguire, R., Ritsema, J., Bonnin, M., van Keken P. E., & Goes, S. (2018). Evaluating the resolution of deep mantle plumes in teleseismic traveltime tomography. Journal of Geophysical Research: Solid Earth, 123, 384– 400. https://doi.org/10.1002/2017JB014730 
+
+French, S., Romanowicz, B. Broad plumes rooted at the base of the Earth's mantle beneath major hotspots. Nature 525, 95–99 (2015). https://doi.org/10.1038/nature14876
 
