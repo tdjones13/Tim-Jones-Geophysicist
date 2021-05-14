@@ -32,7 +32,7 @@ You can find a complete list on [google scholar](https://scholar.google.com.au/c
 
 ### Contact
 
-You can reach me at t6jones@ucsd.edu or on twitter @TimGeophys
+You can reach me at t6jones@ucsd.edu or on twitter [@TimGeophys](https://twitter.com/TimGeophys)
 
 ### Blog
 
