@@ -35,6 +35,7 @@ You can find a complete list on [google scholar](https://scholar.google.com.au/c
 You can reach me at t6jones@ucsd.edu or on twitter [@TimGeophys](https://twitter.com/TimGeophys)
 
 ### Blog
+### Response to Gillian Foulger's argument against mantle plumes - 14/05/21
 
 **A response to Gillian Foulger's argument against mantle plumes on Oliver Strimpel's podcast [_Geology bites_](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84MGU3YmI0L3BvZGNhc3QvcnNz/episode/ZmUyMDljNTYtZDc0Mi00Mjc1LTgzYTktYWNiY2M3YmNkODBl?sa=X&ved=0CAUQkfYCahcKEwjAsfPg5sfwAhUAAAAAHQAAAAAQAQ)**
 
