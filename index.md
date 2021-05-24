@@ -35,11 +35,11 @@ You can find a complete list on [google scholar](https://scholar.google.com.au/c
 You can reach me at t6jones@ucsd.edu or on twitter [@TimGeophys](https://twitter.com/TimGeophys)
 
 ### Blog
-### Response to Gillian Foulger's argument against mantle plumes - 14/05/21
+### A response to Gillian Foulger's argument against mantle plumes on Oliver Strimpel's podcast - 14/05/21
 
-**A response to Gillian Foulger's argument against mantle plumes on Oliver Strimpel's podcast [_Geology bites_](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84MGU3YmI0L3BvZGNhc3QvcnNz/episode/ZmUyMDljNTYtZDc0Mi00Mjc1LTgzYTktYWNiY2M3YmNkODBl?sa=X&ved=0CAUQkfYCahcKEwjAsfPg5sfwAhUAAAAAHQAAAAAQAQ)**
+Find the podcast here [_Geology bites_](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84MGU3YmI0L3BvZGNhc3QvcnNz/episode/ZmUyMDljNTYtZDc0Mi00Mjc1LTgzYTktYWNiY2M3YmNkODBl?sa=X&ved=0CAUQkfYCahcKEwjAsfPg5sfwAhUAAAAAHQAAAAAQAQ)**
 
-Thanks to Oliver Strimpel and Gillian Fougler for the entertaining and educational podcast. While I found Gillian engaging and interesting, I take mantle plumes to be the best explanation we have for some intraplate volcanism across the globe. Still, I found her impressive, ever the skeptic.
+Thanks to Oliver Strimpel and Gillian Fougler for the entertaining and educational podcast. I thought Gillian was engaging and her arguments interesting, but I take mantle plumes to be the best explanation we have for some intraplate volcanism across the globe. Still, I found her impressive, ever the skeptic.
 
 Some of the disagreement is due to the fact that Gillian focuses on an earlier conception of plumes that has since been superseded. For instance, in Morgan’s original paper he suggested that plumes are fixed but later work showed that this need not be the case since the core-mantle boundary (CMB) is not a zero-slip surface. Instead, plumes are able to move, just at a much slower rate than plates due to the high viscosity of the lower mantle. Another is that the volcanic chain associated with a plume must emerge from large igneous provinces (LIP). But Farnetani and Samuel (2005) showed that thermochemical plumes often do not have large heads that melt to form LIPs in the first place. Aside from this, she focuses on aspects of Hawaii, rather than taking a more global perspective which would lend many more observations for an assessment of the plume hypothesis. Here is my response to the rest of her argument.
 
