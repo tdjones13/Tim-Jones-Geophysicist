@@ -8,7 +8,7 @@ If you're looking for information on my research, you've come to the right place
 
 ### About
 
-I am a Cecil and Ida Green Posdoctoral Scholar at the Institute for Geophysics and Planetary Physics, UC San Diego. I research the dynamical and chemical evolution of our planet.
+I am a Cecil and Ida Green Postdoctoral Scholar at the Institute for Geophysics and Planetary Physics, UC San Diego. I research the dynamical and chemical evolution of our planet.
 
 ### Short Bio
 
